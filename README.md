@@ -45,4 +45,4 @@ Build a distributed trading system operating on different currencies/exchanges t
   * optimize for number of agents and exchanges
   * try different optimization strategies e.g. local vs global
   * implement paper trading system to evaluate effectiveness of strategies
-                          </ul>
+                         
